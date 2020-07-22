@@ -242,14 +242,14 @@ Features
 }
 
 /*
-Newsletter
+quote
 */
-#newsletter {
+#quote {
   text-align: center;
   color: white;
 }
 
-#newsletter p {
+#quote p {
   width: 600px;
   margin: 0 auto;
 }
@@ -259,34 +259,34 @@ Newsletter
   color: #ffffff !important;
 }
 
-.newsletter-input {
+.quote-input {
   border: none;
   box-shadow: 0px 2px 8px #f18701;
   text-align: center;
 }
 
-#newsletter .field {
+#quote .field {
   width: 400px;
   max-width: 80%;
   padding: 20px;
   margin: 0 auto;
 }
 
-#newsletter .field label {
+#quote .field label {
   color: white;
 }
 
 /*
-Footer
+contact
 */
-#footer p {
+#contact p {
   padding: 20px;
 }
 
-#footer a {
+#contact a {
   color: #ffffff !important;
 }
 
-#footer a:hover {
+#contact a:hover {
   color: #f18701;
 }
