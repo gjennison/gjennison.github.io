@@ -53,22 +53,22 @@ html {
       180deg,
       rgba(255, 255, 255, 1) 0%,
       rgba(255, 255, 255, 1) 25%,
-      rgba(253, 187, 52, 1) 25%,
-      rgba(253, 187, 52, 1) 100%
+      rgba(118, 120, 237, 1) 25%,
+      rgba(118, 120, 237, 1) 100%
     );
     background: -webkit-linear-gradient(
       180deg,
       rgba(255, 255, 255, 1) 0%,
       rgba(255, 255, 255, 1) 25%,
-      rgba(253, 187, 52, 1) 25%,
-      rgba(253, 187, 52, 1) 100%
+      rgba(118, 120, 237, 1) 25%,
+      rgba(118, 120, 237, 1) 100%
     );
     background: linear-gradient(
       180deg,
       rgba(255, 255, 255, 1) 0%,
       rgba(255, 255, 255, 1) 25%,
-      rgba(253, 187, 52, 1) 25%,
-      rgba(253, 187, 52, 1) 100%
+      rgba(118, 120, 237, 1) 25%,
+      rgba(118, 120, 237, 1) 100%
     );
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff", endColorstr="#fdbb34", GradientType=1);
   }
@@ -139,6 +139,7 @@ nav {
   width: 600px;
   line-height: 1.5em;
 }
+
 
 /*
 Hero
