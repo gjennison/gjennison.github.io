@@ -6993,7 +6993,7 @@ print {
 }
 
 .navbar {
-    background-color: #fff;
+    /* background-color: #fff; */
     min-height: 3.25rem;
     position: relative;
     z-index: 30
@@ -11060,7 +11060,7 @@ print {
 }
 
 .hero .navbar {
-    background: 0 0
+    /* background: 0 0 */
 }
 
 .hero .tabs ul {
